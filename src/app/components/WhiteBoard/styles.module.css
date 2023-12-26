@@ -1,0 +1,17 @@
+.screenContainer {
+    align-items: center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.whiteboardContainer {
+    aspect-ratio: 16/9;
+    background-color: white;
+    border-radius: 16px;
+    overflow: hidden;
+    width: 90%;
+
+}
